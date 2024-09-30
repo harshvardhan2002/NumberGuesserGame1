@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\bin\Debug\net8.0\NumberGuesserGame1.exe
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\bin\Debug\net8.0\NumberGuesserGame1.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\bin\Debug\net8.0\NumberGuesserGame1.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\bin\Debug\net8.0\NumberGuesserGame1.dll
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\bin\Debug\net8.0\NumberGuesserGame1.pdb
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.dll
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\refint\NumberGuesserGame1.dll
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.pdb
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\NumberGuesserGame1.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\NumberGuesserGame1\obj\Debug\net8.0\ref\NumberGuesserGame1.dll
